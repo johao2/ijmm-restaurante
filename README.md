@@ -4,11 +4,11 @@ Sistema para restaurantes: mesas, comandas por área de preparación (cocina, ba
 
 ## Descarga
 
-**Versión 1.0.9** — Windows 10/11 (64 bits) — 89 MB
+**Versión 1.0.10** — Windows 10/11 (64 bits) — 89 MB
 
-[Descargar IJMM-Restaurante-Setup-1.0.9.exe](https://github.com/johao2/ijmm-restaurante/raw/main/IJMM-Restaurante-Setup-1.0.9.exe)
+[Descargar IJMM-Restaurante-Setup-1.0.10.exe](https://github.com/johao2/ijmm-restaurante/raw/main/IJMM-Restaurante-Setup-1.0.10.exe)
 
-SHA-256: `cf606be0b32dc593894e128479680dc101b18802448060b028d1135975a804d5`
+SHA-256: `ae02218d98fae69d36c66142da40d044c515eb891ff4da18b8960523e5efcf63`
 
 ## Instalación
 
